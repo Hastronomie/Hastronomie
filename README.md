@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Mathilde! 👋
 
-<!--
-**Hastronomie/Hastronomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Fullstack Development Student** at **Coda (Orléans, France)**.
+I switched from **Biochemistry to Code** 🧬➡️💻 to combine scientific rigor with creative structure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 About Me
+- 🔭 I’m currently studying **Fullstack Development** with a strong interest in **Front-end**.
+- 🌱 I’m currently sharpening my skills in **PHP** and **JavaScript**.
+- 💼 I’m looking for an **apprenticeship starting September 2026**.
+- ⚡ Fun fact: My background in biochemistry gave me a logical approach to problem-solving, while my experience in the hospitality industry taught me how to stay efficient under pressure!
+
+### 🛠 Languages & Tools
+* **Front-end:** HTML5, CSS3, JavaScript
+* **Back-end:** PHP, SQL
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📫 Let's Connect
+I am open to discussions about web development and apprenticeship opportunities.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mathilde-marco/)
