@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">I am a **Fullstack Development Student** at **Coda (Orléans, France)**.<br>I switched from **Biochemistry to Code** 🧬➡️💻 to combine scientific rigor with creative structure.</p>
+<p align="left">I am a Fullstack Development Student at Coda (Orléans, France).<br>I switched from **Biochemistry to Code 🧬➡️💻 to combine scientific rigor with creative structure.</p>
 
 ###
 
-<p align="left">- 🔭 I’m currently studying **Fullstack Development** with a strong interest in **Front-end**.<br>- 🌱 I’m currently sharpening my skills in **PHP** and **JavaScript**.<br>- 💼 I’m looking for an **apprenticeship starting September 2026**.<br>- ⚡ Fun fact: My background in biochemistry gave me a logical approach to problem-solving, while my experience in the hospitality industry taught me how to stay efficient under pressure!</p>
+<p align="left">- 🔭 I’m currently studying Fullstack Development with a strong interest in Front-end.<br>- 🌱 I’m currently sharpening my skills in PHP.<br>- 💼 I’m looking for an apprenticeship starting September 2026.<br>- ⚡ Fun fact: My background in biochemistry gave me a logical approach to problem-solving, while my experience in the hospitality industry taught me how to stay efficient under pressure!</p>
 
 ###
 
