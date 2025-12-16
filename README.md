@@ -1,4 +1,4 @@
-# pleased to meet you, I'm Mathilde! 👋
+# Pleased to meet you, I'm Mathilde! 👋
 
 I am a **Fullstack Development Student** at **Coda (Orléans, France)**.
 I switched from **Biochemistry to Code** 🧬➡️💻 to combine scientific rigor with creative structure.
