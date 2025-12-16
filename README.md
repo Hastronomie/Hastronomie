@@ -12,17 +12,20 @@
 
 ###
 
-<p align="left">I am a Fullstack Development Student at Coda (Orléans, France).<br>I switched from **Biochemistry to Code 🧬➡️💻 to combine scientific rigor with creative structure.</p>
+<p align="left">I am a **Fullstack Development Student** at **Coda (Orléans, France)**.<br>I switched from **Biochemistry to Code** 🧬➡️💻 to combine scientific rigor with creative structure.</p>
 
 ###
 
-<p align="left">- 🔭 I’m currently studying Fullstack Development with a strong interest in Front-end.<br>- 🌱 I’m currently sharpening my skills in PHP.<br>- 💼 I’m looking for an apprenticeship starting September 2026.<br>- ⚡ Fun fact: My background in biochemistry gave me a logical approach to problem-solving, while my experience in the hospitality industry taught me how to stay efficient under pressure!</p>
+<p align="left">- 🔭 I’m currently studying **Fullstack Development** with a strong interest in **Front-end**.<br>- 🌱 I’m currently sharpening my skills in **PHP** and **JavaScript**.<br>- 💼 I’m looking for an **apprenticeship starting September 2026**.<br>- ⚡ Fun fact: My background in biochemistry gave me a logical approach to problem-solving, while my experience in the hospitality industry taught me how to stay efficient under pressure!</p>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mathilde-marco/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://calendar.app.google/T9h3kayEB7p6vUaJ6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
